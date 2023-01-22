@@ -1,0 +1,6 @@
+.Keypad {
+    display: flex; /*aranjarea butoanelor */
+    flex-wrap: wrap;
+    flex-direction: column;
+    height: 80%;
+}
